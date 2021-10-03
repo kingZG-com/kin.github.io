@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Basic&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Chela+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=KoHo&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap');
+
+ .links{
+   font-family:'Ubuntu',sans-serif;
+   font-size:25px;
+ }
+ .status{
+   font-family:'Urbanist',sans-serif;
+   font-size:16px;
+   margin-bottom:-1px;
+}
+.nmenu{
+  border-radius:5px;
+  text-indent:10px;
+}
+.active{
+  background:#4C97FF;
+}
+.active:active{
+  background:#6EB1FF;
+}
+.galleri:active{
+  background:#227EFF;
+}
+.abut:active{
+  background:#227EFF;
+}
+.contat:active{
+  background:#227EFF;
+}
+.myself{
+  border-radius: 100%;
+  margin-top:2rem;
+}
+.jumbotron{
+  background:#e2edff;
+}
+.leading{
+  font-family: 'Basic',sans-serif;
+  color:#0059FF;
+}
+#gallery{
+  background: #e2edff;
+  padding-bottom: 2rem;
+}
+.pct{
+  margin-top:5rem;
+}
+.des{
+  font-family: 'Urbanist',sans-serif;
+}
+.abt{
+  font-family: 'Basic',sans-serif;
+  color:#0059FF;
+}
+.card{
+  margin-left:1.5rem;
+}
+.kartu{
+  font-family: 'Encode Sans SC',sans-serif;
+  font-weight: bold;
+}
+
+.cnt{
+  font-family: 'Basic',sans-serif;
+  padding-bottom: 3rem;
+  color:#0059FF;
+}
+.heading{
+  font-family: 'Poppins',cursive;
+}
+.nama{
+  font-family: 'Poppins',cursive;
+}
+.telepon{
+  font-family: 'Poppins',cursive;
+}
+.saran{
+  font-family: 'Poppins',cursive;
+}
+.nama, .telepon, .saran{
+  padding:10px;
+  margin-top:1rem;
+  width:98%;
+  outline-style: none;
+  border:2px solid #BFBFBF;
+  border-radius:5px;
+}
+.saran{
+  height:100px;
+}
+.kritik{
+  padding:20px;
+}
+.btn-Kirim, .btn-sukses{
+  margin-top:1rem;
+  width:103px;
+  height:38px;
+  font-size:18px;
+  border-radius: 5px;
+  color:white;
+  background: #1768FF;
+  outline: none;
+  border: none;
+  cursor:pointer;
+  font-family: 'Basic',sans-serif;
+}
+
+.mylist{
+  background: #e2edff;
+  padding-bottom:1rem;
+}
+.mylist a{
+  text-decoration: none;
+  color:grey;
+}
+.fonts{
+  background: #e2edff;
+}
+.home, .gallery, .about, .contact{
+  padding-right:40px;
+  float:left;
+  font-family: Arial;
+}
+.fb, .ig, .wa, .yt, .gh{
+  padding-right:20px;
+  float:right;
+}
+.home{
+  text-indent:1rem;
+}
+.gallery, .contact{
+  padding-bottom:2rem;
+}
+.cp{
+  background: #e2edff;
+  color:grey;
+  border-top:1px solid darkgrey;
+  font-size:11px;
+  padding-top:3rem;
+  padding-bottom:0.5rem;
+}
+.tutup{
+  bottom:0px;
+}
+.btn-load{
+  margin-bottom:5px;
+  background: #1768FF;
+}
+.btn-sukses{
+  color:#FFFFFFD9;
+}
