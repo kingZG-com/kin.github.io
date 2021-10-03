@@ -51,6 +51,7 @@ form.addEventListener('submit', e => {
         btnSukses.classList.toggle('d-none');
         btnLoad.classList.toggle('d-none');
         alert("Terimakasih pesan anda telah kami terima😁😁!!");
+        
         form.reset();
         console.log('Success!', response)
         
